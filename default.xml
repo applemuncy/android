@@ -49,6 +49,10 @@
   <project path="kernel/moto/shamu" name="android_kernel_moto_shamu"   remote="ubp" />
   <project path="vendor/moto"   name="proprietary_vendor_motorola" remote="them" />
 
+  <!-- Lge -->
+  <project path="device/lge/hammerhead" name="android_device_lge_hammerhead"   remote="ubp" />
+  <project path="kernel/lge/hammerhead" name="android_kernel_lge_hammerhead"   remote="ubp" />
+  <project path="vendor/lge"   name="proprietary_vendor_lge" remote="them" />
 
 
 <!-- |-|-|-|-|-| -->
