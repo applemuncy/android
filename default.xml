@@ -24,8 +24,8 @@
         revision="refs/heads/cm-12.1" />
 
   <remote name= "ruben"
-    fetch="http://github.com/rubencarneiro"
-    revision="refs/heads/origin" />
+    fetch="http://github.com/applemuncy"
+    revision="refs/heads/udp-5.1" />
 
   <default remote="phablet"
            sync-j="6" />
