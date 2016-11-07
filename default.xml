@@ -24,8 +24,8 @@
         revision="refs/heads/cm-12.1" />
 
   <remote name= "ruben"
-        fetch="http:github.com/rubencarmeiro"
-        revision="refs/heads/default" />
+    fetch="http://github.com/rubencarmeiro"
+        revision="refs/heads/master" />
 
   <default remote="phablet"
            sync-j="6" />
