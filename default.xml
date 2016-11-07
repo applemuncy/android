@@ -25,7 +25,7 @@
 
   <remote name= "ruben"
     fetch="http://github.com/rubencarneiro"
-        revision="refs/heads/master" />
+        revision="refs/heads/udp-5.1" />
 
   <default remote="phablet"
            sync-j="6" />
