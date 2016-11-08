@@ -57,6 +57,7 @@
   <project path="device/lge/hammerhead" name="ubuntu_device_hammerhead"   remote="ruben" />
   <project path="kernel/lge/hammerhead" name="android_kernel_lge_hammerhead"   remote="ubp" />
   <project path="vendor/lge"   name="proprietary_vendor_lge" remote="them" />
+  <project path="ubuntu/hammerhead/device/rootfs" name="ubuntu_hammerhead_device_rootfs" remote="ruben" />
 
 
 <!-- |-|-|-|-|-| -->
